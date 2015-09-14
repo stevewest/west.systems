@@ -9,3 +9,7 @@ url: "http://west.systems" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
+
+exclude:
+  - tests.sh
+  - Gemfile*
